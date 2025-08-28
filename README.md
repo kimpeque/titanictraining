@@ -36,27 +36,27 @@ The project explores the following questions:
 Here are the main visual insights from the analysis:
 
 ### 1. Overall Survival Rate
-![Overall Survival](Overall Survival.png)  
+![Overall Survival](Overall.png)  
 > Insight: 38.38% of passengers survived, while 61.62% did not survive.
 
 ### 2. Survival by Gender
-![Survival by Gender](Survival per Sex.png)  
+![Survival by Gender](Gender.png)  
 > Insight: Females had a significantly higher survival rate compared to males.
 
 ### 3. Survival by Passenger Class
-![Survival by Class](Survival by Class.png)  
+![Survival by Class](Class.png)  
 > Insight: 3rd class passengers were more likely to survive than 1st and 2nd class passengers.
 
 ### 4. Age Distribution by Survival
-![Age Distribution](Passenger Count per Age.png)  
+![Age Distribution](PassengerCount.png)  
 > Insight: Young adults of both genders had higher survival rates compared to older adults and children.
 
 ### 5. Survival by Port of Embarkation
-![Survival by Port](Survival per Embarcation Port.png)  
+![Survival by Port](Embarcation.png)  
 > Insight: Passengers embarking from Southampton had a higher survival rate.
 
 ### 6. Survival by Gender and Age
-![Survival by Port](Survivor Avg Age & Sex.png)  
+![Survival by Port](Survivor.png)  
 > Insight: Women with an average age of 28-29 years old had a higher survival rate.
 
 ---
