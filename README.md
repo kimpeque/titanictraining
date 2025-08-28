@@ -36,7 +36,7 @@ The project explores the following questions:
 Here are the main visual insights from the analysis:
 
 ### 1. Overall Survival Rate
-![Overall Survival Rate](screenshots/Screenshot 2025-08-28 172500.png)  
+![Overall Survival](screenshots/Overall Survival.png)  
 > Insight: 38.38% of passengers survived, while 61.62% did not survive.
 
 ### 2. Survival by Gender
