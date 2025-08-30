@@ -24,11 +24,10 @@ The dataset contains passenger information from the Titanic shipwreck, including
 ## Analysis Questions
 The project explores the following questions:
 1. What percentage of passengers survived?  
-2. How did **gender** affect survival rates?  
-3. How did **passenger class** affect survival rates?  
-4. How did **age groups** affect survival?  
-5. Did **port of embarkation** influence survival rates?
-6. How did **gender and age** influence survival rates?
+2. How did **passenger class** affect survival rates?  
+3. How did **age groups** affect survival?  
+4. Did **port of embarkation** influence survival rates?
+5. How did **gender and age** influence survival rates?
 
 ---
 
@@ -39,23 +38,19 @@ Here are the main visual insights from the analysis:
 ![Overall Survival](Overall.png)  
 > Insight: 38.38% of passengers survived, while 61.62% did not survive.
 
-### 2. Survival by Gender
-![Survival by Gender](Gender.png)  
-> Insight: Females had a significantly higher survival rate compared to males.
-
-### 3. Survival by Passenger Class
+### 2. Survival by Passenger Class
 ![Survival by Class](Class.png)  
 > Insight: 3rd class passengers were more likely to survive than 1st and 2nd class passengers.
 
-### 4. Age Distribution by Survival
+### 3. Age Distribution by Survival
 ![Age Distribution](PassengerCount.png)  
 > Insight: Young adults of both genders had higher survival rates compared to older adults and children.
 
-### 5. Survival by Port of Embarkation
+### 4. Survival by Port of Embarkation
 ![Survival by Port](Embarcation.png)  
 > Insight: Passengers embarking from Southampton had a higher survival rate.
 
-### 6. Survival by Gender and Age
+### 5. Survival by Gender and Age
 ![Survival by Port](Survivor.png)  
 > Insight: Women with an average age of 28-29 years old had a higher survival rate.
 
